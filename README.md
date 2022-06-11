@@ -17,9 +17,13 @@ The below image represents the user breakdown by gender.  Blue represents female
 
 ![Gender Breakdown](https://user-images.githubusercontent.com/100809925/173195298-78fc42aa-89a0-498d-90be-ce375182540e.jpeg)
 
-![Checkout Times by Gender](https://user-images.githubusercontent.com/100809925/173195308-59e6a87f-3378-43b8-8dc8-588a832f6a02.jpeg)
+Most users are spending less than an hour renting the bikes.  As shown below, the majority of trips are under 30 minutes and very few trips last longer than an hour.  This data should be used to strategically place bikes in locations that are close to stores, shops, and other areas of interest.  Bikes are not typically being used for leisure.  
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/100809925/173195291-6a71dc47-8322-44aa-ac27-bd0dce964215.jpeg)
+
+The image below supports both the user by gender and length of ride demonstrated in the previous images.  
+
+![Checkout Times by Gender](https://user-images.githubusercontent.com/100809925/173195308-59e6a87f-3378-43b8-8dc8-588a832f6a02.jpeg)
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/100809925/173195273-eaa1d4b2-e5d5-4580-985e-5873d7353d7a.jpeg)
 
