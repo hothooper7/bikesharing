@@ -27,7 +27,7 @@ The image below supports both the user by gender and length of ride demonstrated
 
 The final three images demonstrate the following:
   1. On weekdays, the bikes are most used from 6:00AM-9:00AM and 4:00PM-7:00PM.  The data suggests that users are using bikes to commute to and from work,   and that our bikes should be set up to accommodate daily commuters.
-  2. Saturday and Sunday the bikes are used consistently from 9:00AM-7:00AM.  Bikes should be repaired and ready for use prior to these peak times.
+  2. Saturday and Sunday the bikes are used consistently from 9:00AM-7:00PM.  Bikes should be repaired and ready for use prior to these peak times.
   3. More evidence exists that males are the primary users.  Advertising should be used to target men, and possibly try to attract new women users.
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/100809925/173195273-eaa1d4b2-e5d5-4580-985e-5873d7353d7a.jpeg)
