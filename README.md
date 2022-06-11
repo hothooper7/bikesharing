@@ -9,6 +9,8 @@ To view the full story, [click here](https://public.tableau.com/app/profile/aaro
 
 ## Results
 
+As evidenced in the below image, the least busy times for bikesharing are from 2:00AM - 4:00AM.  These slower times would be ideal for bike repairs and other bike maintenance.
+
 ![August Peak Hours](https://user-images.githubusercontent.com/100809925/173195289-eee197c3-5db2-412b-8d1e-3d5b2b5ce908.jpeg)
 
 ![Gender Breakdown](https://user-images.githubusercontent.com/100809925/173195298-78fc42aa-89a0-498d-90be-ce375182540e.jpeg)
