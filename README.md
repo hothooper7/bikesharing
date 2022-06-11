@@ -13,6 +13,8 @@ As evidenced in the below image, the least busy times for bikesharing are from 2
 
 ![August Peak Hours](https://user-images.githubusercontent.com/100809925/173195289-eee197c3-5db2-412b-8d1e-3d5b2b5ce908.jpeg)
 
+The below image represents the user breakdown by gender.  Blue represents female users, orange represents Male users, and red represents unknown gender.  With a predominantly male user base, marketing efforts should be made to specifically target men.
+
 ![Gender Breakdown](https://user-images.githubusercontent.com/100809925/173195298-78fc42aa-89a0-498d-90be-ce375182540e.jpeg)
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/100809925/173195308-59e6a87f-3378-43b8-8dc8-588a832f6a02.jpeg)
